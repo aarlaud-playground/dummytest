@@ -1,5 +1,5 @@
 {
-  "name": "trainingapp",
+  "name": "trainingapfdfdsp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.1",
+    "node-jq": "^1.3.1"
   }
 }
